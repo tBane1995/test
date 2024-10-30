@@ -1,0 +1,25 @@
+Main Updates:
+-refactoring of code
+-edited Grass and Trees, now Grass is lighter and Trees better realistic
+-organized a GUI files
+-now GameObjects are dynamic manage. If GameObject place on visible map then is updating and rendering
+-edited a format of Map. Now whole world save or load as one file map
+-now World have a 16x16 Chunks
+-added sprites for Golem (idleLeft, idle Right, idleTop, idleBottom, runLeft, runRight, runTop, runBottom)
+-added sprites for Troll (idleLeft, idleRight, idleTop, idleBottom, runLeft, runRight, runTop, runBottom)
+
+Building Editor Updates:
+-added Menu Bar
+-now load Building from Open Dialog Box (F6 or MainMenu->File->Load Building)
+-now save Building as "assets/building/testBuilding.txt" (F5 or MainMenu->File->Save Building)
+-now u can render statistics - colliders - of GameObjects using MainMenu->Render options
+-now u can select GameObjects
+
+Map Editor Updates:
+-added Menu Bar
+-now the brush is more pleasant to use.
+-now save World Map as "world/world.txt" (F5 or MainMenu->File->Save World)
+-now load World Map from Open Dialog Box (F6 or MainMenu->File->Load World)
+-now u can render statistics of GameObjects using MainMenu->Render options
+-now datas are check the correct of Map format
+-now you can add water to tiles and it is animated

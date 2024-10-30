@@ -1,0 +1,68 @@
+name "building_000"
+texture "assets/buildings/test house.png"
+size 16 16
+door "door_0"
+
+// FLOORS
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+
+// WALLS
+Wall "walls/wooden_wall_bottom" 48 48
+Wall "walls/wooden_wall_bottom" 80 48
+Wall "walls/wooden_wall_bottom" 112 48
+Wall "walls/wooden_wall_bottom" 144 48
+Wall "walls/wooden_wall_bottom" 176 48
+Wall "walls/wooden_wall_bottom" 208 48
+Wall "walls/wooden_wall_bottom" 208 240
+Wall "walls/wooden_wall_bottom" 176 240
+Wall "walls/wooden_wall_bottom" 48 240
+Wall "walls/wooden_wall_bottom" 80 240
+Wall "walls/wooden_wall_bottom" 240 240
+Wall "walls/wooden_wall_bottom" 16 240
+Wall "walls/wooden_wall_top_5" 240 16
+Wall "walls/wooden_wall_top_4" 16 16
+Wall "walls/wooden_wall_top_6" 16 208
+Wall "walls/wooden_wall_top_7" 240 208
+Wall "walls/wooden_wall_top_8" 176 208
+Wall "walls/wooden_wall_top_9" 80 208
+Wall "walls/wooden_wall_top_2" 240 176
+Wall "walls/wooden_wall_top_2" 240 144
+Wall "walls/wooden_wall_top_2" 240 112
+Wall "walls/wooden_wall_top_2" 240 80
+Wall "walls/wooden_wall_top_2" 240 48
+Wall "walls/wooden_wall_top_2" 16 48
+Wall "walls/wooden_wall_top_2" 16 80
+Wall "walls/wooden_wall_top_2" 16 112
+Wall "walls/wooden_wall_top_2" 16 144
+Wall "walls/wooden_wall_top_2" 16 176
+Wall "walls/wooden_wall_top_3" 208 208
+Wall "walls/wooden_wall_top_3" 48 208
+Wall "walls/wooden_wall_top_3" 48 16
+Wall "walls/wooden_wall_top_3" 80 16
+Wall "walls/wooden_wall_top_3" 112 16
+Wall "walls/wooden_wall_top_3" 144 16
+Wall "walls/wooden_wall_top_3" 176 16
+Wall "walls/wooden_wall_top_3" 208 16
+
+// FURNITURES
+Furniture "furnitures/bed" 64 96 -1
+Furniture "furnitures/furnace" 128 80 -1
+Furniture "furnitures/chest" 192 80 1
+Furniture "furnitures/table" 64 176 0
+Furniture "furnitures/chair" 48 144 -1
+Furniture "furnitures/chair" 80 144 -1

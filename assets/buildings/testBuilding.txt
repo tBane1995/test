@@ -1,0 +1,87 @@
+name "testBuilding"
+texture "assets/buildings/testBuilding.png"
+size 24 16
+door "door_0"
+
+// FLOORS
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 0
+0 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 0
+0 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 0
+0 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 0
+0 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 0
+0 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 0
+0 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 0
+0 0 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 0 0
+0 0 0 0 0 0 0 0 0 0 3 3 3 3 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 3 3 3 3 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 3 3 3 3 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 3 3 3 3 0 0 0 0 0 0 0 0 0 0
+
+// FURNITURES
+Furniture "furnitures/bookshelf" 64 80
+Furniture "furnitures/wardrobe" 128 80
+Furniture "furnitures/furnace" 192 80
+Furniture "furnitures/chest" 304 80
+Furniture "furnitures/chair" 288 144
+Furniture "furnitures/chair" 320 144
+Furniture "furnitures/bed" 64 176
+Furniture "furnitures/table" 304 176
+
+// WALLS
+Wall "walls/wooden_wall_top_3" 336 16
+Wall "walls/wooden_wall_top_3" 304 16
+Wall "walls/wooden_wall_top_3" 272 16
+Wall "walls/wooden_wall_top_3" 240 16
+Wall "walls/wooden_wall_top_3" 208 16
+Wall "walls/wooden_wall_top_3" 176 16
+Wall "walls/wooden_wall_top_3" 144 16
+Wall "walls/wooden_wall_top_3" 112 16
+Wall "walls/wooden_wall_top_3" 80 16
+Wall "walls/wooden_wall_top_3" 48 16
+Wall "walls/wooden_wall_top_4" 16 16
+Wall "walls/wooden_wall_top_5" 368 16
+Wall "walls/wooden_wall_bottom" 48 48
+Wall "walls/wooden_wall_bottom" 80 48
+Wall "walls/wooden_wall_bottom" 112 48
+Wall "walls/wooden_wall_bottom" 144 48
+Wall "walls/wooden_wall_bottom" 176 48
+Wall "walls/wooden_wall_bottom" 208 48
+Wall "walls/wooden_wall_bottom" 240 48
+Wall "walls/wooden_wall_bottom" 272 48
+Wall "walls/wooden_wall_bottom" 304 48
+Wall "walls/wooden_wall_bottom" 336 48
+Wall "walls/wooden_wall_top_2" 368 48
+Wall "walls/wooden_wall_top_2" 16 48
+Wall "walls/wooden_wall_top_2" 368 80
+Wall "walls/wooden_wall_top_2" 16 80
+Wall "walls/wooden_wall_top_2" 368 112
+Wall "walls/wooden_wall_top_2" 16 112
+Wall "walls/wooden_wall_top_2" 368 144
+Wall "walls/wooden_wall_top_2" 16 144
+Wall "walls/wooden_wall_top_2" 368 176
+Wall "walls/wooden_wall_top_2" 16 176
+Wall "walls/wooden_wall_top_3" 48 208
+Wall "walls/wooden_wall_top_3" 80 208
+Wall "walls/wooden_wall_top_3" 112 208
+Wall "walls/wooden_wall_top_3" 272 208
+Wall "walls/wooden_wall_top_3" 336 208
+Wall "walls/wooden_wall_top_3" 304 208
+Wall "walls/wooden_wall_top_8" 240 208
+Wall "walls/wooden_wall_top_6" 16 208
+Wall "walls/wooden_wall_top_7" 368 208
+Wall "walls/wooden_wall_top_9" 144 208
+Wall "walls/wooden_wall_bottom" 336 240
+Wall "walls/wooden_wall_bottom" 304 240
+Wall "walls/wooden_wall_bottom" 272 240
+Wall "walls/wooden_wall_bottom" 240 240
+Wall "walls/wooden_wall_bottom" 80 240
+Wall "walls/wooden_wall_bottom" 112 240
+Wall "walls/wooden_wall_bottom" 144 240
+Wall "walls/wooden_wall_bottom" 16 240
+Wall "walls/wooden_wall_bottom" 368 240
+Wall "walls/wooden_wall_bottom" 48 240
+
